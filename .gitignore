@@ -1,0 +1,14 @@
+.git/*
+env/
+venv/
+.venv
+.venv/
+
+migrations/
+
+requirements.txt
+db.sqlite3
+
+static/
+templates/
+image/
